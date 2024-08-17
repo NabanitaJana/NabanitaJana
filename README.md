@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**NabanitaJana/NabanitaJana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about creating dynamic and intuitive user interfaces,I have expertise in Java and Spring Boot for backend development.
 
-Here are some ideas to get you started:
+## Skills
+-Java
+-Spring Boot
+-Rest Api
+-JUnit
+-Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Experienced Backend Developer proficient in Java, Spring Boot, Rest APi with a strong focus on building scalable web applications.
+
+## Contact Me
+Email- nabanitajana1819@gmail.com
