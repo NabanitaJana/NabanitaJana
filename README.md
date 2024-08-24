@@ -7,6 +7,7 @@ Passionate about creating dynamic and intuitive user interfaces,I have expertise
 -Spring Boot
 -Rest Api
 -JUnit
+-MySQL
 -Maven
 
 ## About Me
