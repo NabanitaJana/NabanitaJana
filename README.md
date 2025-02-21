@@ -9,6 +9,10 @@ Passionate about creating dynamic and intuitive user interfaces,I have expertise
 -JUnit
 -MySQL
 -Maven
+-Gradle
+-Docker
+-Kubernetes
+-Hibernate
 
 ## About Me
 Experienced Backend Developer proficient in Java, Spring Boot, Rest APi with a strong focus on building scalable web applications.
